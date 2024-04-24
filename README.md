@@ -39,3 +39,8 @@ Problem Definition - Try and identify trends over the years to predict what attr
 ## What new things did we learn
 - We learnt about random forest regression
 - We learnt about hypothesis testing
+
+## Contributors
+- Aarushi Gambhir
+- Lim Yi
+- Pattanaik Ronav
